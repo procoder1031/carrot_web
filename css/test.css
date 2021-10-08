@@ -1,0 +1,103 @@
+/* CSS Document */
+
+/*Bandeau bdrthermea*/
+div#top {
+	height:80px;
+	shadow: 0 0 20px 0;
+	background-color: #065BAA
+}
+ /*Logo bdrthermea*/
+div#top img {
+	margin-left:10px;
+	margin-right:auto;
+	margin-top:14px;
+	margin-bottom: 10px;
+	border:none;
+  height: 60px;
+  align-items: start;
+}
+
+/* Police ensemble de la page */
+body {
+  margin: 0;
+  font-family: Souce Sans Pro;
+	background-color: #EFECEA;
+}
+
+div#flag img {
+  width:: 16px;
+	border-bottom: 20px;
+	align-items: flex-end;
+}
+
+div#text{
+	overflow: hidden;
+	background-color: #EFECEA;
+	border-width: 1px;
+	border-color: black;
+	border-style: solid;
+}
+
+div#container{
+		text-align: center;
+		/*background-image: url("https://bdrthermea.dam-broadcast.com/medias/domain29/images/login/background-UdsHs.jpg");
+		background-position: center;
+    height: 100vh;
+    width: 100%;*/
+}
+/* formulaire */
+form {
+    width:75%;
+    padding: 30px;
+    border: 1px solid #f1f1f1;
+    background: #fff;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+		display: inline-block;
+	}
+/* Description */
+#container h1{
+    width: 100%;
+    margin: 0 auto;
+    padding-bottom: 10px;
+}
+
+/* Entrées */
+input[type=text], input[type=password], textarea, input[type=file]{
+    width: 100%;
+    padding: 12px 20px;
+  	margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+
+/* Boutons */
+input[type=submit], input[type=button] {
+    background-color: #FFCB05;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+input[type=submit]:hover , input[type=button]:hover{
+    background-color: white;
+    color: 	#FFCB05;
+    border: 1px solid 	#FFCB05;
+}
+
+section#message{
+	color: red;
+}
+
+a:link {
+	color: black;
+	text-decoration-color: #065BAA;
+}
+
+a:visited{
+	color: black;
+	text-decoration-color: #065BAA;
+}

@@ -1,0 +1,19 @@
+	BDR THERMEA France
+	HALL 3
+	57 rue de la gare
+	F-67580 MERTZWILLER
+
+	HONEYWELL HPS FRANCE
+	26-28 Avenue de Winchester
+	F-78100 SAINT-GERMAIN-EN-LAYE
+
+	Procurement planning 5520210066 on 09.12.2020
+	List from 04.10.2021
+
+Unit	Item no.	Item description	Supplier code	Position	Call-off type	Material planner	Backorder	18/10/2021	W 48.2021	M 01.2022	M 02.2022	M 03.2022	M 04.2022	M 05.2022	M 06.2022	M 07.2022	M 08.2022	M 09.2022	Total	Latest incoming	Delivery date	Delivery note	Drawing
+
+PCE	"=""	121007	"" "	SWITCH GAS PRESSURE	C60VR40040G	00010		KARINE.CHAREYRE-THIRY	"=""0"" "	50 *					"=""50"" "			"=""50"" "			"=""150"" "	"=""50"" "	25/08/2021	812940428	PLA 121007 001 01/PSP 121007 001 01/
+PCE	"=""	300029268	"" "	DETECTOR CONDENSATE EE046	HSS-DPS	00020		KARINE.CHAREYRE-THIRY	"=""0"" "		"=""120"" "	"=""140"" "	"=""60"" "	"=""130"" "	"=""80"" "	"=""90"" "	"=""90"" "	"=""70"" "	"=""100"" "	"=""90"" "	"=""970"" "	"=""300"" "	27/09/2021	8563348253	FTQ 300029268 001 A/PLA 300029268 001 03/
+
+						Total : PCE	"=""0"" "	"=""50"" "	"=""120"" "	"=""140"" "	"=""60"" "	"=""130"" "	"=""130"" "	"=""90"" "	"=""90"" "	"=""120"" "	"=""100"" "	"=""90"" "	"=""1120"" "
+

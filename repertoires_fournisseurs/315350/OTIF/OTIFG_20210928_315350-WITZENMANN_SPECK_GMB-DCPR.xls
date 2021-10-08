@@ -1,0 +1,969 @@
+MIME-Version: 1.0
+X-Document-Type: Worksheet
+Content-Type: multipart/related; boundary="----=_NextPart_01D24BC5.707C4AC0"
+	
+Ce document est une page Web à fichier unique, ou fichier archive Web.  Si ce message est affiché, votre navigateur ou votre éditeur ne prend pas en charge les fichiers archives Web.  Téléchargez un navigateur qui prend en charge les archives Web, par exemple Microsoft Internet Explorer.
+	
+------=_NextPart_01D24BC5.707C4AC0
+Content-Location: file:///C:/8E694D85/OTIF_Squelettey-Copie.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+	
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+=09
+	
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dus-ascii">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 11">
+<link rel=3DFile-List href=3D"OTIF_Squelettey-Copie_fichiers/filelist.xml">
+<link rel=3DEdit-Time-Data href=3D"OTIF_Squelettey-Copie_fichiers/editdata.=
+mso">
+<link rel=3DOLE-Object-Data href=3D"OTIF_Squelettey-Copie_fichiers/oledata.=
+mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+x\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:LastAuthor>TM09A046</o:LastAuthor>
+  <o:Created>2016-10-12T13:32:11Z</o:Created>
+  <o:LastSaved>2016-12-01T10:24:11Z</o:LastSaved>
+  <o:Version>11.6568</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\,";
+	mso-displayed-thousand-separator:" ";}
+@page
+	{margin:.98in .79in .98in .79in;
+	mso-header-margin:.49in;
+	mso-footer-margin:.49in;}
+.font5
+	{color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;}
+.font6
+	{color:red;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;}
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl24
+	{mso-style-parent:style0;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;}
+.xl25
+	{mso-style-parent:style0;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	border:.5pt solid windowtext;
+	background:yellow;
+	mso-pattern:auto none;
+	mso-rotate:75;}
+.xl26
+	{mso-style-parent:style0;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	background:yellow;
+	mso-pattern:auto none;}
+.xl27
+	{mso-style-parent:style0;
+	mso-number-format:"mmm\\-yy";
+	background:yellow;
+	mso-pattern:auto none;}
+.xl28
+	{mso-style-parent:style0;
+	background:yellow;
+	mso-pattern:auto none;}
+.xl29
+	{mso-style-parent:style0;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:yellow;
+	mso-pattern:auto none;
+	white-space:normal;
+	mso-rotate:75;}
+.xl30
+	{mso-style-parent:style0;
+	mso-number-format:Fixed;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;}
+.xl31
+	{mso-style-parent:style0;
+	color:red;
+	font-weight:700;
+	mso-number-format:Fixed;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>Nom du fichier</x:Name>
+    <x:WorksheetOptions>
+     <x:DefaultColWidth>10</x:DefaultColWidth>
+     <x:Print>
+      <x:ValidPrinterInfo/>
+      <x:PaperSizeIndex>9</x:PaperSizeIndex>
+      <x:HorizontalResolution>600</x:HorizontalResolution>
+      <x:VerticalResolution>600</x:VerticalResolution>
+     </x:Print>
+     <x:Selected/>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+       <x:ActiveRow>10</x:ActiveRow>
+       <x:ActiveCol>2</x:ActiveCol>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:WindowHeight>8505</x:WindowHeight>
+  <x:WindowWidth>19320</x:WindowWidth>
+  <x:WindowTopX>120</x:WindowTopX>
+  <x:WindowTopY>150</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"1028"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+	
+=09
+	
+<body link=3Dblue vlink=3Dpurple>
+	
+<table x:str border=3D0 cellpadding=3D0 cellspacing=3D0 width=3D904 style=
+=3D'border-collapse:
+ collapse;table-layout:fixed;width:678pt'>
+ <col class=3Dxl28 width=3D80 style=3D'width:60pt'>
+ <col width=3D44 span=3D6 style=3D'mso-width-source:userset;mso-width-alt:1=
+609;
+ width:33pt'>
+ <col width=3D80 span=3D7 style=3D'width:60pt'>
+ <tr height=3D223 style=3D'mso-height-source:userset;height:167.25pt'>
+  <td height=3D223 class=3Dxl25 width=3D80 style=3D'height:167.25pt;width:6=
+0pt'
+  x:str=3D"N&deg; of week  ">N&deg; of week <span style=3D'display:none'=
+>  <span
+  style=3D'mso-spacerun:yes'>&nbsp;&nbsp;</span></span></td>
+  <td class=3Dxl29 width=3D44 style=3D'width:33pt'>Nbr line <br>
+    delivered</td>
+  <td class=3Dxl29 width=3D44 style=3D'width:33pt'>% deliveries <font class=
+=3D"font6">ONTIME</font><font
+  class=3D"font5"><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;</span></fon=
+t></td>
+  <td class=3Dxl29 width=3D44 style=3D'width:33pt'>% deliveries <font class=
+=3D"font6">INFULL</font></td>
+  <td class=3Dxl29 width=3D44 style=3D'width:33pt'>% deliveries <font class=
+=3D"font6">OTIF</font></td>
+  <td class=3Dxl29 width=3D44 style=3D'width:33pt'>52 weeks rolling=
+ average</td>
+  <td class=3Dxl29 width=3D44 style=3D'width:33pt'>Target OTIF</td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl26 style=3D'height:12.75pt' x:str=3D"2020/41   =
+     ">2020/41<span
+  style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;</span></td>
+  <td class=3Dxl24 align=3Dright x:num>1</td>
+  <td class=3Dxl30 align=3Dright x:num=3D"0.00">0.00</td>
+  <td class=3Dxl30 align=3Dright x:num=3D"0.00">0.00</td>
+  <td class=3Dxl30 align=3Dright x:num=3D"0.00">0.00</td>
+  <td class=3Dxl31 align=3Dright x:num=3D"0.00">0.00</td>
+  <td class=3Dxl24 align=3Dright x:num>96.00</td>
+  <td colspan=3D7 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl26 style=3D'height:12.75pt' x:str=3D"2020/46   =
+     ">2020/46<span
+  style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;</span></td>
+  <td class=3Dxl24 align=3Dright x:num>1</td>
+  <td class=3Dxl30 align=3Dright x:num=3D"0.00">0.00</td>
+  <td class=3Dxl30 align=3Dright x:num=3D"0.00">0.00</td>
+  <td class=3Dxl30 align=3Dright x:num=3D"0.00">0.00</td>
+  <td class=3Dxl31 align=3Dright x:num=3D"0.00">0.00</td>
+  <td class=3Dxl24 align=3Dright x:num>96.00</td>
+  <td colspan=3D7 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl26 style=3D'height:12.75pt' x:str=3D"2021/01   =
+     ">2021/01<span
+  style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;</span></td>
+  <td class=3Dxl24 align=3Dright x:num>1</td>
+  <td class=3Dxl30 align=3Dright x:num=3D"0.00">0.00</td>
+  <td class=3Dxl30 align=3Dright x:num=3D"0.00">0.00</td>
+  <td class=3Dxl30 align=3Dright x:num=3D"0.00">0.00</td>
+  <td class=3Dxl31 align=3Dright x:num=3D"0.00">0.00</td>
+  <td class=3Dxl24 align=3Dright x:num>96.00</td>
+  <td colspan=3D7 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl26 style=3D'height:12.75pt' x:str=3D"2021/04   =
+     ">50/2011<span
+  style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;</span></td>
+  <td class=3Dxl24 align=3Dright x:num>1</td>
+  <td class=3Dxl30 align=3Dright x:num=3D"0.00">0.00</td>
+  <td class=3Dxl30 align=3Dright x:num=3D"0.00">0.00</td>
+  <td class=3Dxl30 align=3Dright x:num=3D"0.00">0.00</td>
+  <td class=3Dxl31 align=3Dright x:num=3D"0.00">0.00</td>
+  <td class=3Dxl24 align=3Dright x:num>96.00</td>
+  <td colspan=3D7 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl26 style=3D'height:12.75pt' x:str=3D"2021/09   =
+     ">50/2011<span
+  style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;</span></td>
+  <td class=3Dxl24 align=3Dright x:num>1</td>
+  <td class=3Dxl30 align=3Dright x:num=3D"0.00">0.00</td>
+  <td class=3Dxl30 align=3Dright x:num=3D"0.00">0.00</td>
+  <td class=3Dxl30 align=3Dright x:num=3D"0.00">0.00</td>
+  <td class=3Dxl31 align=3Dright x:num=3D"0.00">0.00</td>
+  <td class=3Dxl24 align=3Dright x:num>96.00</td>
+  <td colspan=3D7 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl26 style=3D'height:12.75pt' x:str=3D"2021/18   =
+     ">50/2011<span
+  style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;</span></td>
+  <td class=3Dxl24 align=3Dright x:num>1</td>
+  <td class=3Dxl30 align=3Dright x:num=3D"0.00">0.00</td>
+  <td class=3Dxl30 align=3Dright x:num=3D"0.00">0.00</td>
+  <td class=3Dxl30 align=3Dright x:num=3D"0.00">0.00</td>
+  <td class=3Dxl31 align=3Dright x:num=3D"0.00">0.00</td>
+  <td class=3Dxl24 align=3Dright x:num>96.00</td>
+  <td colspan=3D7 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl26 style=3D'height:12.75pt' x:str=3D"2021/24   =
+     ">50/2011<span
+  style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;</span></td>
+  <td class=3Dxl24 align=3Dright x:num>1</td>
+  <td class=3Dxl30 align=3Dright x:num=3D"0.00">0.00</td>
+  <td class=3Dxl30 align=3Dright x:num=3D"0.00">0.00</td>
+  <td class=3Dxl30 align=3Dright x:num=3D"0.00">0.00</td>
+  <td class=3Dxl31 align=3Dright x:num=3D"0.00">0.00</td>
+  <td class=3Dxl24 align=3Dright x:num>96.00</td>
+  <td colspan=3D7 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl26 style=3D'height:12.75pt' x:str=3D"2021/26   =
+     ">50/2011<span
+  style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;</span></td>
+  <td class=3Dxl24 align=3Dright x:num>1</td>
+  <td class=3Dxl30 align=3Dright x:num=3D"0.00">0.00</td>
+  <td class=3Dxl30 align=3Dright x:num=3D"0.00">0.00</td>
+  <td class=3Dxl30 align=3Dright x:num=3D"0.00">0.00</td>
+  <td class=3Dxl31 align=3Dright x:num=3D"0.00">0.00</td>
+  <td class=3Dxl24 align=3Dright x:num>96.00</td>
+  <td colspan=3D7 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl27 style=3D'height:12.75pt'>&nbsp;</td>
+  <td colspan=3D13 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 style=3D'height:12.75pt' align=3Dleft valign=3Dtop><!--[i=
+f gte vml 1]><v:shapetype
+   id=3D"_x0000_t201" coordsize=3D"21600,21600" o:spt=3D"201" path=3D"m,l,2=
+1600r21600,l21600,xe">
+   <v:stroke joinstyle=3D"miter"/>
+   <v:path shadowok=3D"f" o:extrusionok=3D"f" strokeok=3D"f" fillok=3D"f"
+    o:connecttype=3D"rect"/>
+   <o:lock v:ext=3D"edit" shapetype=3D"t"/>
+  </v:shapetype><v:shape id=3D"_x0000_s1025" type=3D"#_x0000_t201" style=3D=
+'position:absolute;
+   margin-left:5.25pt;margin-top:5.25pt;width:621.75pt;height:372.75pt;
+   z-index:1' fillcolor=3D"white [9]" strokecolor=3D"windowText [77]"
+   strokeweight=3D"3e-5mm" o:insetmode=3D"auto">
+   <v:fill color2=3D"black [8]"/>
+   <o:lock v:ext=3D"edit" rotation=3D"t" text=3D"t"/>
+   <x:ClientData ObjectType=3D"Chart">
+    <x:AutoFill>False</x:AutoFill>
+    <x:WebChart>
+     <x:Scaling>
+      <x:ScaleID>0</x:ScaleID>
+      <x:Orientation>MinMax</x:Orientation>
+     </x:Scaling>
+     <x:Scaling>
+      <x:ScaleID>1</x:ScaleID>
+      <x:Orientation>MinMax</x:Orientation>
+      <x:Minimum>0</x:Minimum>
+      <x:Maximum>100</x:Maximum>
+     </x:Scaling>
+     <x:Chart>
+      <x:Name>Graphique 1</x:Name>
+      <x:Title>
+       <x:Caption>
+        <x:DataSource>-1</x:DataSource>
+        <x:Data>&quot;<x:B>Variation delivery date [0;0]    &#10;Variation=
+ on volume [0;0]    </x:B>&quot;</x:Data>
+       </x:Caption>
+       <x:Font>
+        <x:FontName>Arial</x:FontName>
+        <x:Size>12</x:Size>
+        <x:B/>
+        <x:AutoScale/>
+       </x:Font>
+       <x:Border>
+        <x:ColorIndex>None</x:ColorIndex>
+       </x:Border>
+       <x:Interior>
+        <x:ColorIndex>None</x:ColorIndex>
+       </x:Interior>
+      </x:Title>
+      <x:Options>
+       <x:SizeWithWindow/>
+      </x:Options>
+      <x:PageSetup>
+       <x:ChartSize>FullPage</x:ChartSize>
+       <x:Layout Orientation=3D"Landscape"/>
+       <x:Header Margin=3D"0.4921259845"/>
+       <x:Footer Margin=3D"0.4921259845"/>
+       <x:PageMargins Bottom=3D"0.984251969" Left=3D"0.78740157499999996"
+        Right=3D"0.78740157499999996" Top=3D"0.984251969"/>
+      </x:PageSetup>
+      <x:Interior>
+       <x:ColorIndex>1</x:ColorIndex>
+       <x:BGColorIndex>0</x:BGColorIndex>
+      </x:Interior>
+      <x:Font>
+       <x:FontName>Arial</x:FontName>
+       <x:Size>12</x:Size>
+       <x:AutoScale/>
+      </x:Font>
+      <x:Left>0</x:Left>
+      <x:Top>0</x:Top>
+      <x:Width>12449.99267578125</x:Width>
+      <x:Height>7470</x:Height>
+      <x:ChartGrowth>
+       <x:HorzGrowth>1.3267974853515625</x:HorzGrowth>
+       <x:VertGrowth>1.0098114013671875</x:VertGrowth>
+      </x:ChartGrowth>
+      <x:PlotArea>
+       <x:Left>606.93714294433596</x:Left>
+       <x:Top>1176.5250000000001</x:Top>
+       <x:Width>11550.480704956055</x:Width>
+       <x:Height>5680.9350000000004</x:Height>
+       <x:Border>
+        <x:ColorIndex>15</x:ColorIndex>
+        <x:LineStyle>Solid</x:LineStyle>
+        <x:Weight>Narrow</x:Weight>
+       </x:Border>
+       <x:Interior>
+        <x:ColorIndex>1</x:ColorIndex>
+        <x:BGColorIndex>0</x:BGColorIndex>
+       </x:Interior>
+       <x:Font>
+        <x:FontName>Arial</x:FontName>
+        <x:Size>12</x:Size>
+        <x:AutoScale/>
+       </x:Font>
+       <x:Graph>
+        <x:Type>Line</x:Type>
+        <x:SubType>Standard</x:SubType>
+        <x:SubType>Marker</x:SubType>
+        <x:ScaleID>0</x:ScaleID>
+        <x:ScaleID>1</x:ScaleID>
+        <x:Series>
+         <x:Index>3</x:Index>
+         <x:Caption>
+          <x:DataSource>0</x:DataSource>
+          <x:Data>'Nom du fichier'!$E$1</x:Data>
+         </x:Caption>
+         <x:Name>% deliveries OTIF</x:Name>
+         <x:Line>
+          <x:ColorIndex>27</x:ColorIndex>
+          <x:LineStyle>Solid</x:LineStyle>
+          <x:Weight>Medium</x:Weight>
+         </x:Line>
+         <x:Category>
+          <x:DataSource>0</x:DataSource>
+          <x:Data>'Nom du fichier'!$A$2:$A$9</x:Data>
+         </x:Category>
+         <x:Value>
+          <x:DataSource>0</x:DataSource>
+          <x:Data>'Nom du fichier'!$E$2:$E$9</x:Data>
+         </x:Value>
+        </x:Series>
+        <x:Series>
+         <x:Index>4</x:Index>
+         <x:Caption>
+          <x:DataSource>0</x:DataSource>
+          <x:Data>'Nom du fichier'!$F$1</x:Data>
+         </x:Caption>
+         <x:Name>52 weeks rolling average</x:Name>
+         <x:Line>
+          <x:ColorIndex>28</x:ColorIndex>
+          <x:LineStyle>Solid</x:LineStyle>
+          <x:Weight>Medium</x:Weight>
+         </x:Line>
+         <x:Category>
+          <x:DataSource>0</x:DataSource>
+          <x:Data>'Nom du fichier'!$A$2:$A$9</x:Data>
+         </x:Category>
+         <x:Value>
+          <x:DataSource>0</x:DataSource>
+          <x:Data>'Nom du fichier'!$F$2:$F$9</x:Data>
+         </x:Value>
+        </x:Series>
+        <x:Series>
+         <x:Index>5</x:Index>
+         <x:Caption>
+          <x:DataSource>0</x:DataSource>
+          <x:Data>'Nom du fichier'!$G$1</x:Data>
+         </x:Caption>
+         <x:Name>Target OTIF</x:Name>
+         <x:Line>
+          <x:ColorIndex>2</x:ColorIndex>
+          <x:LineStyle>Solid</x:LineStyle>
+          <x:Weight>Medium</x:Weight>
+         </x:Line>
+         <x:Marker>
+          <x:Symbol>Circle</x:Symbol>
+          <x:Size>5</x:Size>
+         </x:Marker>
+         <x:Category>
+          <x:DataSource>0</x:DataSource>
+          <x:Data>'Nom du fichier'!$A$2:$A$9</x:Data>
+         </x:Category>
+         <x:Value>
+          <x:DataSource>0</x:DataSource>
+          <x:Data>'Nom du fichier'!$G$2:$G$9</x:Data>
+         </x:Value>
+        </x:Series>
+        <x:PlotVisible/>
+       </x:Graph>
+       <x:Axis>
+        <x:Placement>Bottom</x:Placement>
+        <x:AxisID>0</x:AxisID>
+        <x:ScaleID>0</x:ScaleID>
+        <x:Title>
+         <x:Caption>
+          <x:DataSource>-1</x:DataSource>
+          <x:Data>&quot;<x:B>Weeks</x:B>&quot;</x:Data>
+         </x:Caption>
+         <x:Font>
+          <x:FontName>Arial</x:FontName>
+          <x:Size>12</x:Size>
+          <x:B/>
+          <x:AutoScale/>
+         </x:Font>
+         <x:Border>
+          <x:ColorIndex>None</x:ColorIndex>
+         </x:Border>
+         <x:Interior>
+          <x:ColorIndex>None</x:ColorIndex>
+         </x:Interior>
+        </x:Title>
+        <x:CrossingAxis>1</x:CrossingAxis>
+        <x:Alignment>
+         <x:Rotation>45</x:Rotation>
+        </x:Alignment>
+        <x:Font>
+         <x:FontName>Arial</x:FontName>
+         <x:Size>9.5</x:Size>
+         <x:I/>
+         <x:AutoScale/>
+        </x:Font>
+        <x:Number>
+         <x:SourceLinked/>
+         <x:BuiltInFormat>0</x:BuiltInFormat>
+        </x:Number>
+        <x:Type>Automatic</x:Type>
+       </x:Axis>
+       <x:Axis>
+        <x:Placement>Left</x:Placement>
+        <x:AxisID>1</x:AxisID>
+        <x:ScaleID>1</x:ScaleID>
+        <x:MajorGridlines/>
+        <x:Title>
+         <x:Caption>
+          <x:DataSource>-1</x:DataSource>
+          <x:Data>&quot;<x:B>Pourcentage</x:B>&quot;</x:Data>
+         </x:Caption>
+         <x:Font>
+          <x:FontName>Arial</x:FontName>
+          <x:Size>12</x:Size>
+          <x:B/>
+          <x:AutoScale/>
+         </x:Font>
+         <x:Border>
+          <x:ColorIndex>None</x:ColorIndex>
+         </x:Border>
+         <x:Interior>
+          <x:ColorIndex>None</x:ColorIndex>
+         </x:Interior>
+        </x:Title>
+        <x:CrossingAxis>0</x:CrossingAxis>
+        <x:CrossesAt>Minimum</x:CrossesAt>
+        <x:CrossBetween>Between</x:CrossBetween>
+        <x:Font>
+         <x:FontName>Arial</x:FontName>
+         <x:Size>9.5</x:Size>
+         <x:I/>
+         <x:AutoScale/>
+        </x:Font>
+        <x:Number>
+         <x:SourceLinked/>
+         <x:BuiltInFormat>2</x:BuiltInFormat>
+        </x:Number>
+        <x:Type>Value</x:Type>
+       </x:Axis>
+      </x:PlotArea>
+      <x:Legend>
+       <x:Type>Horizontal</x:Type>
+       <x:Placement>Custom</x:Placement>
+       <x:Left>3971.5476635742189</x:Left>
+       <x:Top>5047.8525</x:Top>
+       <x:Width>3580</x:Width>
+       <x:Height>700</x:Height>
+       <x:Border>
+        <x:LineStyle>Solid</x:LineStyle>
+        <x:Weight>Hairline</x:Weight>
+       </x:Border>
+       <x:Font>
+        <x:FontName>Arial</x:FontName>
+        <x:Size>10.5</x:Size>
+       </x:Font>
+       <x:LegendEntry>
+        <x:Index>1</x:Index>
+        <x:Font>
+         <x:FontName>Arial</x:FontName>
+         <x:Size>8</x:Size>
+        </x:Font>
+       </x:LegendEntry>
+       <x:LegendEntry>
+        <x:Index>2</x:Index>
+        <x:Font>
+         <x:FontName>Arial</x:FontName>
+         <x:Size>8</x:Size>
+        </x:Font>
+       </x:LegendEntry>
+       <x:LegendEntry>
+        <x:Index>3</x:Index>
+        <x:Font>
+         <x:FontName>Arial</x:FontName>
+         <x:Size>8</x:Size>
+        </x:Font>
+       </x:LegendEntry>
+      </x:Legend>
+     </x:Chart>
+    </x:WebChart>
+   </x:ClientData>
+  </v:shape><![endif]--><![if !vml]><span style=3D'mso-ignore:vglayout;
+  position:absolute;z-index:1;margin-left:7px;margin-top:7px;width:830px;
+  height:498px'><![endif]><![if !excel]><img width=3D830 height=3D498
+  src=3D"OTIF_Squelettey-Copie_fichiers/image001.gif" v:shapes=3D"_x0000_s1=
+025"
+  class=3Dshape v:dpi=3D"96"><![endif]><![if !vml]></span><![endif]><span
+  style=3D'mso-ignore:vglayout2'>
+  <table cellpadding=3D0 cellspacing=3D0>
+   <tr>
+    <td height=3D17 class=3Dxl27 width=3D80 style=3D'height:12.75pt;width:6=
+0pt'>&nbsp;</td>
+   </tr>
+  </table>
+  </span></td>
+  <td colspan=3D13 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl27 style=3D'height:12.75pt'>&nbsp;</td>
+  <td colspan=3D13 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl27 style=3D'height:12.75pt'>&nbsp;</td>
+  <td colspan=3D13 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl28 style=3D'height:12.75pt'>&nbsp;</td>
+  <td colspan=3D13 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl28 style=3D'height:12.75pt'>&nbsp;</td>
+  <td colspan=3D13 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl28 style=3D'height:12.75pt'>&nbsp;</td>
+  <td colspan=3D13 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl28 style=3D'height:12.75pt'>&nbsp;</td>
+  <td colspan=3D13 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl28 style=3D'height:12.75pt'>&nbsp;</td>
+  <td colspan=3D13 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl28 style=3D'height:12.75pt'>&nbsp;</td>
+  <td colspan=3D13 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl28 style=3D'height:12.75pt'>&nbsp;</td>
+  <td colspan=3D13 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl28 style=3D'height:12.75pt'>&nbsp;</td>
+  <td colspan=3D13 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl28 style=3D'height:12.75pt'>&nbsp;</td>
+  <td colspan=3D13 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl28 style=3D'height:12.75pt'>&nbsp;</td>
+  <td colspan=3D13 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl28 style=3D'height:12.75pt'>&nbsp;</td>
+  <td colspan=3D13 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl28 style=3D'height:12.75pt'>&nbsp;</td>
+  <td colspan=3D13 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl28 style=3D'height:12.75pt'>&nbsp;</td>
+  <td colspan=3D13 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl28 style=3D'height:12.75pt'>&nbsp;</td>
+  <td colspan=3D13 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl28 style=3D'height:12.75pt'>&nbsp;</td>
+  <td colspan=3D13 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl28 style=3D'height:12.75pt'>&nbsp;</td>
+  <td colspan=3D13 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl28 style=3D'height:12.75pt'>&nbsp;</td>
+  <td colspan=3D13 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl28 style=3D'height:12.75pt'>&nbsp;</td>
+  <td colspan=3D13 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl28 style=3D'height:12.75pt'>&nbsp;</td>
+  <td colspan=3D13 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl28 style=3D'height:12.75pt'>&nbsp;</td>
+  <td colspan=3D13 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl28 style=3D'height:12.75pt'>&nbsp;</td>
+  <td colspan=3D13 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl28 style=3D'height:12.75pt'>&nbsp;</td>
+  <td colspan=3D13 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl28 style=3D'height:12.75pt'>&nbsp;</td>
+  <td colspan=3D13 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl28 style=3D'height:12.75pt'>&nbsp;</td>
+  <td colspan=3D13 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl28 style=3D'height:12.75pt'>&nbsp;</td>
+  <td colspan=3D13 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl28 style=3D'height:12.75pt'>&nbsp;</td>
+  <td colspan=3D13 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl28 style=3D'height:12.75pt'>&nbsp;</td>
+  <td colspan=3D13 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=3D0 style=3D'display:none'>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D44 style=3D'width:33pt'></td>
+  <td width=3D44 style=3D'width:33pt'></td>
+  <td width=3D44 style=3D'width:33pt'></td>
+  <td width=3D44 style=3D'width:33pt'></td>
+  <td width=3D44 style=3D'width:33pt'></td>
+  <td width=3D44 style=3D'width:33pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+ </tr>
+ <![endif]>
+</table>
+	
+</body>
+	
+=09
+</html>
+<xml xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+ <o:MainFile HRef=3D"../OTIFG_20210928_315350-WITZENMANN_   .htm"/>
+</xml>
+------=_NextPart_01D24BC5.707C4AC0
+Content-Location: file:///C:/8E694D85/OTIF_Squelettey-Copie_fichiers/image001.gif
+Content-Transfer-Encoding: base64
+Content-Type: image/gif
+	
+R0lGODdhPgPyAXcAACH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACwAAAAAPgPyAYQAAAAA
+//9NTU18fHxoaGiAAACAAICMjIyampqAgIC9vb2ysrKnp6fQ0NDHx8fZ2dn/AADh4eHp6enw8PD/
+//8BAgMBAgMBAgMBAgMBAgMBAgMBAgMBAgMBAgMBAgMBAgMF/yAgjmRpnmiqrmzrvnAsz3Rt33iu
+73zv/8CgcEgsGo/IFWXJbDqf0Kh0Sq1ar9isdsvter/gsHhMLpvP6LR6zW673/B4VCSv2+/4vH7P
+7/v/gIGCg390hIeIiYqLjI2Oj5CRknMAk5aXmJmam5ydnp9MhqCjpKWmp6ipqoqiq66vsLGys7Sc
+rbW4ubq7vL2+Vbe/wsPExcbHicHIy8zNzs/QU8rR1NXW19in09nc3d7f4Hzb4eTl5ufowJXp7O3u
+79zj8PP09faw8vf6+/z9kPn+AgocSFAOwIIIEypciOUgw4cQIw50KLGixYvsKGLcyLFjNY0eQ4oc
+6QskyZMoU/+mMqnylYB1TgAIyCIvwoFQMM3UvOnFoSGWT4BeIfGkwQARBBRIkYBABAIJS4i2LCZ0
+KqoFABw4cQBgAc2cUERVlSJPqM91Y6OCPSOVCdcSXqG8HDGTQlurv9LiHTUBAAEnBABM0LkWTdnC
+DRGHVXxI2YGsSyIoUwAAwZKmStXuFaZ386fHEZhI5klBwdynahsI+CvKtFOoJezCZPoaZ4SmABhE
+eRCYwIPWp2FL5e33we7ev2ES971Y82/LlwEYF6H6b+ngmpcweClANxPalaGqvS3Ce0zGS7hal70E
+dGQApDt77iR//qYGuZkwANBgCWUSPAHIXmkl3BSbIRPMJYL/AIPJVgJ0TUhmgn8FOkiHhCOE5gSG
+UnEIgIZN/LTOS6HUJeB/IwS4zmMkeJcgCQyq9WBQjLEogHgDtiIWeva9Ul+PmZBIQV91UfCScRKI
+6NVghhxJQZJowWTIftA15Z1Tg/33hJXaNSndkyIy0VRokkEoZn4U7LfOmBSUSWN2+/WH35VdDWnk
+l1BmJ8JgyXVZJZpYErjWOHMJAGKIOe0IpC4/LmrJfkpRZt4SDyxwVJQNDkippWFm91KDRKqVaTB7
+LtFXTpVemt2dMNIIqpetnpfdcxQ0ZZxsmW6q6oC9LdAfE5+aKpOoOL1JxX4DNFfsqo7O0mizkST5
+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
+ADs=
+	
+------=_NextPart_01D24BC5.707C4AC0
+Content-Location: file:///C:/8E694D85/OTIF_Squelettey-Copie_fichiers/filelist.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml; charset="utf-8"
+	
+<xml xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+ <o:MainFile HRef=3D"../OTIF_Squelettey-Copie.htm"/>
+ <o:File HRef=3D"image001.gif"/>
+ <o:File HRef=3D"filelist.xml"/>
+</xml>
+------=_NextPart_01D24BC5.707C4AC0--

@@ -1,0 +1,19 @@
+	BDR THERMEA France
+	HALL 2
+	57, rue de la Gare
+	F-67580 MERTZWILLER
+
+	WITZENMANN SPECK GMBH
+	OESTLICHE KARL-FRIEDRICH- STRAS 134
+	D-75175 PFORZHEIM
+
+	Procurement planning 5520210031 on 09.12.2020
+	List from 01.10.2021
+
+Unit	Item no.	Item description	Supplier code	Position	Call-off type	Material planner	Backorder	14/10/2021	W 44.2021	W 46.2021	W 47.2021	M 01.2022	M 02.2022	Total	Latest incoming	Delivery date	Delivery note	Drawing
+
+PCE	"=""	100013532	"" "	SET CONN MCA/SR130 EA137	996499	00010		PASCALE.VANDERBEKE	"=""0"" "	200 *	"=""100"" "		"=""100"" "		"=""100"" "	"=""500"" "	"=""100"" "	14/09/2021	13607444	PLA 100013532 001 02
+PCE	"=""	100013746	"" "	SET CONN BS 60 EA138	1001976	00020		PASCALE.VANDERBEKE	"=""0"" "	50 *		50 *		"=""50"" "		"=""150"" "	"=""50"" "	08/09/2021	13602972	PLA 100013746 001 02
+
+						Total : PCE	"=""0"" "	"=""250"" "	"=""100"" "	"=""50"" "	"=""100"" "	"=""50"" "	"=""100"" "	"=""650"" "
+
