@@ -22,9 +22,10 @@
 <html>
 	<head>
 		<meta charset="utf-8">
-		<?php
-		include_once("../include/header.php");
-		?>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 		<link rel="stylesheet" type="text/css" href="/css/index.css">
 		<link rel="stylesheet" type="text/css" href="/css/editor/editor.css">
 		<script src="/css/editor/editor.js"></script>

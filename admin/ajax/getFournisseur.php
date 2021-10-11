@@ -22,7 +22,7 @@ $len = 0;
 while ($donnees = $reponse->fetch()) {
     $login = $donnees['login'];
     $link = 'account.php?fournisseur=' . $login;
-    $data[$len][0] = '<a style="text-decoration: underline;" href="'. $link .'">'. $login .'</a>';
+    $data[$len][0] = '<a target="blank" style="text-decoration: underline;" href="'. $link .'">'. $login .'</a>';
     $data[$len][1] = $donnees['email'];
     $len ++;
 }

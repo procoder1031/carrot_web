@@ -57,7 +57,7 @@
 					<div class="col-md-12">
 						<div class="section_box">
 							<div class="section_header">
-								<div><?php echo TXT_WELCOME ?></div>
+								<div><?php echo TXT_WELCOME ?> - <?= $_SESSION['user'] ?></div>
 							</div>
 							<div class="section_body">
 								<?php
