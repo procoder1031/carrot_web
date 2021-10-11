@@ -23,26 +23,19 @@
 <html>
 	<head>
 		<meta charset="utf-8">
+		<?php
+		include_once('../include/header.php');
+		?>
 		<link rel="stylesheet" type="text/css" href="/css/both.css">
 		<title><?php echo TXT_TITRE_COMPTE ?></title>
 	</head>
 	<body>
     <div id="top">
 			<a href="https://suppliers.bdrthermea-france.fr/compte/account.php" title="BDR THERMEA France"><img src="/css/BDR-THERMEA-FRANCE.png" /></a>
-			<div id="infos">
-				<p>
-					<?php echo TXT_UTILISATEUR; echo $_SESSION['user']; echo " - ";?> <a href="changemdp.php"><?php echo TXT_CHANGE_MDP; ?></a> - <a href="../signout.php"><?php echo TXT_DECO; ?></a>
-				</p>
-			</div>
 		</div>
-		<div class="topnav">
-			 <a href="account.php"><?php echo TXT_ACCUEIL; ?></a>
-			 <a href="livraisons.php"><?php echo TXT_LIVRAISON; ?></a>
-			 <a href="otif.php"><?php echo TXT_OTIF; ?></a>
-			 <a href="kanban.php"><?php echo TXT_KANBAN ?></a>
-			 <a href="rating.php"><?php echo TXT_RATING ?></a>
-			 <a class="active" href="conges.php"><?php echo TXT_CONGES ?></a>
-		</div>
+		<?php
+		include_once('../include/topmenu.php');
+		?>
     <div id="container">
 			<br><br>
           <form action="setConges.php" method="post">

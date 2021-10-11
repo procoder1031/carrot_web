@@ -7,8 +7,18 @@ require('../lang.php');
 <html>
 	<head>
 		<meta charset="utf-8">
+		<?php
+		include_once("../include/header.php");
+		?>
 		<link rel="stylesheet" type="text/css" href="/css/both.css">
+		<link rel="stylesheet" type="text/css" href="/css/jquery.dataTables.min.css">
+		<script src="/js/jquery.dataTables.min.js"></script>
 		<title><?php echo TXT_TITRE_COMPTE ?></title>
+		<style>
+			td.sorting_1 {
+				background-color: unset !important;
+			}
+		</style>
 	</head>
 	<body>
 		<div id="top">
@@ -36,53 +46,31 @@ require('../lang.php');
 		<div id="content">
 			<h2><?php echo "Liste des fournisseurs"; ?></h2>
 			<p><?php echo "Cliquez sur un numéro de fournisseur pour accèder à ses contenus"; ?></p>
-			<table class="files" summary="Fichiers à télécharger">
-				<thead>
-					<tr>
-						<th width="40%" scope="col" class="file">Fournisseur</th>
-						<th width="60%" scope="col" class="type">Email</th>
-					</tr>
-				</thead>
-				<tbody>
-				<?php
-
-				/******************************************************************************
-				 * Initialisation de l'accès à la BDD
-				 */
-
-				try {
-					$bdd = new PDO('mysql:host=localhost;dbname=suppliers;charset=utf8', 'root', '');
-				}
-				catch( PDOException $e ) {
-					$_SESSION['message_admin'] = TXT_ERREUR_BBD.$e->getMessage();
-					header('Location: admin.php');
-					exit();
-				}
-
-				/******************************************************************************
-				 * Affichage des fournisseurs
-				 */
-
-					// On récupère tout le contenu de la table users
-					$reponse = $bdd->query('SELECT * FROM users');
-
-					// On affiche chaque entrée une à une
-					while ($donnees = $reponse->fetch())
-					{
-						$login = $donnees['login'];
-						$link = 'account.php?fournisseur=' . $login;
-					?>
-					<tr>
-						<td class="fournisseur"> <a href=" <?php echo $link ?>" target=_blank><?php echo $login;?></a></td>
-						<td class="email"><?php echo $donnees['email']; ?></td>
-					</tr>
-					<?php
-					}
-
-					$reponse->closeCursor();
-					?>
-					</tbody>
-					</table>
+			<div style="max-width: 1000px; margin: auto;">
+				<table id="files" class="display" style="width: 100%;">
+					<thead>
+						<tr>
+							<th width="40%" scope="col" class="file">Fournisseur</th>
+							<th width="60%" scope="col" class="type">Email</th>
+						</tr>
+					</thead>
+					<tfoot>
+						<tr>
+							<th width="40%" scope="col" class="file">Fournisseur</th>
+							<th width="60%" scope="col" class="type">Email</th>
+						</tr>
+					</tfoot>
+				</table>
+			</div>
 		</div>
 	</body>
+	<script>
+		$(document).ready(function() {
+			$('#files').DataTable( {
+				"processing": true,
+				"serverSide": true,
+				"ajax": "./ajax/getFournisseur.php"
+			} );
+		} );
+	</script>
 	</html>

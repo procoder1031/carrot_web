@@ -85,6 +85,27 @@ define('TXT_CONF_MDP', 'Confirmer le mot de passe');
 define('TXT_NEW_MDP', 'Nouveau mot de passe');
 define('TXT_PAS_DE_FICHIER', 'Aucun fichier disponible');
 
+define('TXT_ORDER_BOOK', 'Carnet de commande');
+define('TXT_ORDERS', 'Commandes');
+define('TXT_APPRO_PLAN', 'Plan d’appro');
+define('TXT_KANBAN_CARD', 'Cartes kanban');
+define('TXT_ORDER_CONFIRMATION', 'Confirmation de commande');
+define('TXT_ORDERS_AND_APPRO_PLAN', 'Commandes et plan d’appro');
+define('TXT_LATE_KANBAN', 'Retard kanban');
+define('TXT_REMINDER', 'Relances');
+define('TXT_PURCHASE_CONDITIONS', 'Conditions d’achat');
+define('TXT_ORIGIN_CERTIFICATE', 'certificats d’origine');
+define('TXT_ROSH_REACH', 'ROSH & REACH');
+define('TXT_BL', 'BL');
+define('TXT_DOCUMENTS', 'Documents');
+define('TXT_VENDOR_RATING', 'Vendor rating');
+define('TXT_SUPPLIER_PERFORMANCE', 'Performances fournisseurs');
+define('TXT_MY_ACCOUNT', 'Mon compte');
+define('TXT_VACATION_PERIODS', 'Périodes congès');
+define('TXT_UPDATE_EMAIL', 'Mise à jour email');
+define('TXT_CHANGE_PASSWORD', 'Mot de passe');
+define('TXT_LOGOUT', 'Déconnexion');
+define('TXT_WELCOME', 'Bienvenue');
 
 
 
@@ -144,6 +165,4 @@ define('TXT_PREMIERE_CO', 'Identifiants BDR Thermea');
 define('TXT_YOUR_ID', 'Votre identifiant : ');
 define('TXT_YOUR_PSW', 'Votre mot de passe : ');
 define('TXT_LINK', 'Lien de connexion : ');
-
-
  ?>

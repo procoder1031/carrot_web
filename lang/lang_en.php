@@ -78,6 +78,28 @@ define('TXT_CONF_MDP', 'Confirm password');
 define('TXT_NEW_MDP', 'New password');
 define('TXT_PAS_DE_FICHIER', 'No file available');
 
+define('TXT_ORDER_BOOK', 'Order book');
+define('TXT_ORDERS', 'Orders');
+define('TXT_APPRO_PLAN', 'Appro plan');
+define('TXT_KANBAN_CARD', 'Kanban card');
+define('TXT_ORDER_CONFIRMATION', 'Order confirmation');
+define('TXT_ORDERS_AND_APPRO_PLAN', 'Orders and appro plan');
+define('TXT_LATE_KANBAN', 'Late kanban');
+define('TXT_REMINDER', 'Reminder');
+define('TXT_PURCHASE_CONDITIONS', 'Purchase conditions');
+define('TXT_ORIGIN_CERTIFICATE', 'origin certificate');
+define('TXT_ROSH_REACH', 'ROSH & REACH');
+define('TXT_BL', 'BL');
+define('TXT_DOCUMENTS', 'Documents');
+define('TXT_VENDOR_RATING', 'Vendor rating');
+define('TXT_SUPPLIER_PERFORMANCE', 'Supplier performance');
+define('TXT_MY_ACCOUNT', 'My account');
+define('TXT_VACATION_PERIODS', 'Vacation periods');
+define('TXT_UPDATE_EMAIL', 'Update email');
+define('TXT_CHANGE_PASSWORD', 'Change Password');
+define('TXT_LOGOUT', 'Logout');
+define('TXT_WELCOME', 'Welcome');
+
 //Livraison (english)
 define('TXT_PAGE_LIVRAISON', 'Call off');
 define('TXT_MSG_LIVRAISON', 'You will find following files on this site :<br>

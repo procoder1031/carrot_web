@@ -1,0 +1,53 @@
+.topnavbar {
+    background-color: #EFECEA !important;
+    border-width: 1px !important;
+    border-color: black !important;
+    border-style: solid !important;
+}
+.topnavbar a:hover {
+    background-color: #ddd;
+    color: black;
+}
+.topnavbar li.active a {
+    text-decoration: underline;
+    text-decoration-color: #FFCB05;
+}
+.topnavbar .submenuitem a {
+    text-decoration: unset !important;
+}
+.topnavbar .submenuitem.active a {
+    text-decoration: underline !important;
+    text-decoration-color: #FFCB05 !important;
+}
+
+.tox-notification {
+    display: none !important;
+}
+.tox-statusbar__branding {
+    display: none !important;
+}
+
+.nav-item a.nav-link {
+    white-space: nowrap !important;
+}
+
+.section_box {
+    border-radius: 5px;
+}
+.section_box .section_header {
+    background-color: rgb(88, 89, 91);
+    color: white;
+    padding: 10px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.section_box .section_body {
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    padding: 10px;
+    border: 1px solid lightgrey;
+    min-height: 100px;
+}
+.section_box .section_body table td {
+    border: 0px !important;
+}

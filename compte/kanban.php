@@ -46,26 +46,19 @@ function getIcon($file){
 <html>
 	<head>
 		<meta charset="utf-8">
+		<?php
+		include_once('../include/header.php');
+		?>
 		<link rel="stylesheet" type="text/css" href="/css/account.css">
 		<title><?php echo TXT_TITRE_COMPTE ?></title>
 	</head>
 	<body>
 		<div id="top">
 			<a href="https://suppliers.bdrthermea-france.fr/compte/account.php" title="BDR THERMEA France"><img src="/css/BDR-THERMEA-FRANCE.png" /></a>
-			<div id="infos">
-				<p>
-					<?php echo TXT_UTILISATEUR; echo $_SESSION['user']; echo " - ";?> <a href="changemdp.php"><?php echo TXT_CHANGE_MDP; ?></a> - <a href="../signout.php"><?php echo TXT_DECO; ?></a>
-				</p>
-			</div>
 		</div>
-		<div class="topnav">
-			 <a href="account.php"><?php echo TXT_ACCUEIL; ?></a>
-			 <a href="livraisons.php"><?php echo TXT_LIVRAISON; ?></a>
-			 <a href="otif.php"><?php echo TXT_OTIF; ?></a>
-			 <a class="active" href="kanban.php"><?php echo TXT_KANBAN ?></a>
-			 <a href="rating.php"><?php echo TXT_RATING ?></a>
-			 <a href="conges.php"><?php echo TXT_CONGES ?></a>
-		</div>
+		<?php
+		include_once('../include/topmenu.php');
+		?>
 		<div id="content">
 			<h2><?php echo TXT_PAGE_KANBAN; ?></h2>
 			<p><?php echo TXT_MSG_KANBAN; ?></p>

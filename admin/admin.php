@@ -25,7 +25,7 @@
 				<h1>Bonjour et bienvenue sur la page d'administration.</h1>
 				<input type="button"  value="Créer un nouveau fournisseur" onclick="signup()">
 				<input type="button"  value="Accèder à la page d'un fournisseur" onclick="accesF()">
-				<input class="inactif" type="button" name="" value="Modifier la page d'acceuil" onclick="changerAcceuil()">
+				<input type="button" name="" value="Modifier la page d'acceuil" onclick="changerAcceuil()">
 				<input type="button" value="Changer de mot de passe" onclick="changemdpadmin()">
 				<input type="button" value="Télécharger périodes de congés" onclick="dlconges()">
 				<p><a href="../signout.php">Se déconnecter</a></p>
@@ -37,9 +37,8 @@
 				}
 
 				function changerAcceuil(){
-					/*
 					let url = "changerAcceuil.php";
-      		window.location.href = url;*/
+      		window.location.href = url;
 				}
 
 				function accesF(){
